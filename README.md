@@ -1,4 +1,4 @@
-# 50x.duyetdev.com
+# [50x.duyetdev.com](https://50x.duyetdev.com)
 Static 50x error page.
 
 # Setup 
